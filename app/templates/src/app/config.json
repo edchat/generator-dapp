@@ -1,5 +1,5 @@
 {
-    //Mandatory
+    //Mandatory XXX
     "id": "App",
     "name": "dapp-boilerplate",
     "description": "Sample Boilerplate-App to help devs get started",
@@ -38,7 +38,7 @@
             //Mandatory set template for defaultViews
             "template": "app/views/about/about.html",
             "controller" : "app/views/about/about.js"
-        }
+        } // end of last view, add generated views above here
     },
     "has": {
         "html5history": {
